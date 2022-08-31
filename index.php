@@ -30,7 +30,7 @@
         [
             "id" => "6",
             "soal" => "Siapakah Presiden pertama indonesia ? ",
-            "pilihan" => ["Jokowi","Soekarno","Trump","Megawati"] 
+            "pilihan" => ["Jokowi","Soekarno","Trump","Megawatiii"] 
         ],
         [
             "id" => "7",
